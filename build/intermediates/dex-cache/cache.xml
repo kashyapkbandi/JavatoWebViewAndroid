@@ -2,46 +2,60 @@
 <items version="2" >
 
     <item
-        jar="F:\AndroidWORKBENCH\WebView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="F:\AndroidWORKBENCH\WebView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_030117a8302b50b2baa7454912ced9bca8d002fb.jar" />
-    </item>
-    <item
-        jar="F:\AndroidWORKBENCH\WebView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="F:\AndroidWORKBENCH\WebView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_11872308e70fb57ca5b023b358832c066c751499.jar" />
-    </item>
-    <item
-        jar="F:\AndroidWORKBENCH\WebView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="F:\AndroidWORKBENCH\WebView\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ee42aa5bde608cbd5f3b8f936abc19808bcbea51.jar" />
-    </item>
-    <item
-        jar="F:\AndroidWORKBENCH\WebView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jar="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.3"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="F:\AndroidWORKBENCH\WebView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_85c48f48a0e12a0ea1ca2e56e37fdfb10b6c78a7.jar" />
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_5b4c1a76e10fac3a5ea378efb3cc0dc52c7e11f3\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e3d0892e1fc2d46abe2774bd56889c30679f9738\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_304e5f0e32261a8616fac7b0f26632769867a03c\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_58d11ad453e9493fbe8d4af4ddcd1c0897d7170f\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed5b06c4972009a6d8dd013ccd133d9a4ce6760c">
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_406ac9b6b8d946a1973e5aca4412853874fbee18\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ee8461351509c7ea4f814f624733a96f606d6132">
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a7c9cab6bf38f165743af2c4b786c46ba9b915a0\classes.dex" />
     </item>
     <item
         jar="F:\KASHYAP(FILES)l\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.3"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="F:\AndroidWORKBENCH\WebView\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_1fd6996b4d718783f176b7bb429fc7932cdbb33d.jar" />
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1fd6996b4d718783f176b7bb429fc7932cdbb33d\classes.dex" />
     </item>
     <item
-        jar="F:\AndroidWORKBENCH\WebView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
+        jar="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="F:\AndroidWORKBENCH\WebView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_8ea6e49da6896e2521c579227f3b66a4061bc4d0.jar" />
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\AndroidWORKBENCH\WebView\JavatoWebViewAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b955ffb154930a86251d9f51a94db9311fdf9d1d\classes.dex" />
     </item>
 
 </items>
